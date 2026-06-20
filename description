@@ -1,0 +1,4 @@
+Overview
+
+This project provides a reproducible pipeline for extracting, cleaning, and preparing bioactivity data from the ChEMBL database for QSAR (Quantitative Structure–Activity Relationship) modelling.
+The workflow focuses on retrieving compounds for a given biological target (e.g., EGFR), processing IC50 data, and generating machine learning-ready datasets using molecular descriptors and fingerprints.
